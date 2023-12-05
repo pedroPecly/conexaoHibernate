@@ -4,8 +4,8 @@ import javax.persistence.EntityManager;
 
 import java.util.List;
 
-import controller.ConnFactory;
 import model.Contato;
+import model.dao.ConnFactory;
 
 public class Principal {
 
